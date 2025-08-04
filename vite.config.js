@@ -5,7 +5,7 @@ import { fileURLToPath, URL } from "node:url";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Afonso-Management/",
+  base: "/",
   plugins: [vue(), tailwindcss()],
   resolve: {
     alias: {
@@ -13,4 +13,5 @@ export default defineConfig({
     },
   },
 });
+
 
