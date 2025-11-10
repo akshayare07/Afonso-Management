@@ -359,7 +359,7 @@
               transition: { duration: 600, delay: 1500 },
             }"
           >
-            Located in the heart of Orlando, our office is easily accessible and
+            Located in the heart of Pomona, our office is easily accessible and
             we welcome scheduled visits to discuss your facility management
             needs in person.
           </p>
@@ -513,3 +513,4 @@ const closeNotification = () => {
   showNotification.value = false;
 };
 </script>
+
